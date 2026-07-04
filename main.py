@@ -19,3 +19,8 @@ async def main():
 
 
 asyncio.run(main())
+from datos import BOT_TOKEN, CHAT_ID, NIE, NOMBRE
+
+print(BOT_TOKEN)
+print(NIE)
+print(NOMBRE)
