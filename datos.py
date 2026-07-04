@@ -1,5 +1,5 @@
-BOT_TOKEN = ""
+BOT_TOKEN = 8704187046:AAFFyFlWn523l5dkJI8sbKdobFrJRRxK0Yo
 CHAT_ID = ""
 
-NIE = ""
-NOMBRE = ""
+NIE = X5797705A 
+NOMBRE = Claudia Carola Suárez Alegría 
